@@ -2,7 +2,7 @@
 
 
 <div align="center">
- ### Stats:
+
 <a href="https://github.com/search?q=author:balaji305">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasimDAce&theme=tokyonight&layout=compact&langs_count=8" width=41.5%/>
 </a>
