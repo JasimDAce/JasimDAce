@@ -4,3 +4,11 @@
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
+
+### Stats:
+
+<div>
+<a href="https://github.com/search?q=author:balaji305">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji305&theme=tokyonight&layout=compact&langs_count=8" width=41.5%/>
+</a>
+</div>
