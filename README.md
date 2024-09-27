@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Mohd Ali Jasim
-- 👀 I’m interested in Competitive Programmaing.
-- 🌱 I’m currently learning DSA, Mern Stack Development.
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me my email is mohdalijasim2@gmail.com
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Teko&size=40&duration=2800&color=53DBF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Mohd+Ali+Jasim;Welcome+to+my+GitHub+Page+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 <p align="center">
